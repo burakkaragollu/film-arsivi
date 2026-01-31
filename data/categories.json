@@ -1,0 +1,20 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "sci-fi"
+    },
+    {
+      "id": 2,
+      "name": "action"
+    },
+    {
+      "id": 3,
+      "name": "drama"
+    },
+    {
+      "id": 4,
+      "name": "fantasy"
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "films": [
+    {
+      "id": 1,
+      "title": "The Matrix",
+      "year": 1999,
+      "category": "sci-fi",
+      "director": "Wachowski Kardeşler",
+      "rating": 8.7,
+      "watched": true
+    },
+    {
+      "id": 2,
+      "title": "Inception",
+      "year": 2010,
+      "category": "sci-fi",
+      "director": "Christopher Nolan",
+      "rating": 8.8,
+      "watched": true
+    },
+    {
+      "id": 3,
+      "title": "Interstellar",
+      "year": 2014,
+      "category": "sci-fi",
+      "director": "Christopher Nolan",
+      "rating": 8.6,
+      "watched": true
+    },
+    {
+      "id": 4,
+      "title": "The Dark Knight",
+      "year": 2008,
+      "category": "action",
+      "director": "Christopher Nolan",
+      "rating": 9.0,
+      "watched": true
+    },
+    {
+      "id": 5,
+      "title": "Fight Club",
+      "year": 1999,
+      "category": "drama",
+      "director": "David Fincher",
+      "rating": 8.8,
+      "watched": true
+    },
+    {
+      "id": 6,
+      "title": "Forrest Gump",
+      "year": 1994,
+      "category": "drama",
+      "director": "Robert Zemeckis",
+      "rating": 8.8,
+      "watched": true
+    },
+    {
+      "id": 7,
+      "title": "The Lord of the Rings: The Fellowship of the Ring",
+      "year": 2001,
+      "category": "fantasy",
+      "director": "Peter Jackson",
+      "rating": 8.8,
+      "watched": false
+    },
+    {
+      "id": 8,
+      "title": "Gladiator",
+      "year": 2000,
+      "category": "action",
+      "director": "Ridley Scott",
+      "rating": 8.5,
+      "watched": false
+    },
+    {
+      "id": 9,
+      "title": "The Shawshank Redemption",
+      "year": 1994,
+      "category": "drama",
+      "director": "Frank Darabont",
+      "rating": 9.3,
+      "watched": true
+    },
+    {
+      "id": 10,
+      "title": "Parasite",
+      "year": 2019,
+      "category": "drama",
+      "director": "Bong Joon-ho",
+      "rating": 8.6,
+      "watched": false
+    }
+  ]
+}

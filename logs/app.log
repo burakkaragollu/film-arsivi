@@ -1,0 +1,58 @@
+[27.01.2026 18:57:46] INFO: EVENT: reportGenerated - File: Inception 
+[27.01.2026 18:57:46] INFO: EVENT: filmViewed - Film: Inception 
+[27.01.2026 18:57:46] INFO: EVENT: filmAdded - Film: The Matrix 
+[27.01.2026 18:57:56] INFO: EVENT: filmViewed - Film: Inception 
+[27.01.2026 18:57:56] INFO: EVENT: reportGenerated - File: Inception 
+[27.01.2026 18:57:56] INFO: EVENT: filmAdded - Film: The Matrix 
+[27.01.2026 18:58:01] INFO: Server basladi
+[27.01.2026 18:58:01] WARN: Bu bir uyaridir
+[27.01.2026 18:58:01] ERROR: Bu bir hatadir
+[27.01.2026 18:58:01] INFO: EVENT: filmViewed - Film: Inception 
+[27.01.2026 18:58:01] INFO: EVENT: filmAdded - Film: The Matrix 
+[27.01.2026 18:58:01] INFO: EVENT: reportGenerated - File: Inception 
+[27.01.2026 19:00:34] INFO: Server basladi
+[27.01.2026 19:00:34] WARN: Bu bir uyaridir
+[27.01.2026 19:00:34] ERROR: Bu bir hatadir
+[27.01.2026 19:00:34] INFO: EVENT: filmViewed - Film: Inception 
+[27.01.2026 19:00:34] INFO: EVENT: reportGenerated - File: Inception 
+[27.01.2026 19:00:34] INFO: EVENT: filmAdded - Film: The Matrix 
+[29.01.2026 02:46:37] INFO: EVENT: filmViewed - Film: Inception 
+[29.01.2026 02:46:37] INFO: EVENT: reportGenerated - File: Inception 
+[29.01.2026 03:10:22] INFO: EVENT: filmViewed - Film: Forrest Gump 
+[29.01.2026 03:10:22] INFO: EVENT: reportGenerated - File: Forrest Gump 
+[29.01.2026 03:10:38] INFO: EVENT: reportGenerated - File: The Dark Knight 
+[29.01.2026 03:10:38] INFO: EVENT: filmViewed - Film: The Dark Knight 
+[29.01.2026 03:16:54] INFO: EVENT: filmViewed - Film: Inception 
+[29.01.2026 03:16:54] INFO: EVENT: reportGenerated - File: Inception 
+[29.01.2026 03:17:06] INFO: EVENT: filmViewed - Film: Interstellar 
+[29.01.2026 03:17:06] INFO: EVENT: reportGenerated - File: Interstellar 
+[29.01.2026 19:59:08] INFO: EVENT: filmViewed - Film: Gladiator 
+[29.01.2026 19:59:08] INFO: EVENT: reportGenerated - File: Gladiator 
+[29.01.2026 19:59:16] INFO: EVENT: filmViewed - Film: Gladiator 
+[29.01.2026 19:59:16] INFO: EVENT: reportGenerated - File: Gladiator 
+[29.01.2026 19:59:30] INFO: EVENT: filmViewed - Film: Gladiator 
+[29.01.2026 19:59:30] INFO: EVENT: reportGenerated - File: Gladiator 
+[29.01.2026 19:59:43] INFO: EVENT: filmViewed - Film: The Matrix 
+[29.01.2026 19:59:43] INFO: EVENT: reportGenerated - File: The Matrix 
+[29.01.2026 19:59:45] INFO: EVENT: filmViewed - Film: Inception 
+[29.01.2026 19:59:45] INFO: EVENT: reportGenerated - File: Inception 
+[29.01.2026 19:59:50] INFO: EVENT: filmViewed - Film: Fight Club 
+[29.01.2026 19:59:50] INFO: EVENT: reportGenerated - File: Fight Club 
+[29.01.2026 20:02:28] INFO: EVENT: filmViewed - Film: The Dark Knight 
+[29.01.2026 20:02:28] INFO: EVENT: reportGenerated - File: The Dark Knight 
+[29.01.2026 20:07:02] INFO: EVENT: filmViewed - Film: The Matrix 
+[29.01.2026 20:07:02] INFO: EVENT: reportGenerated - File: The Matrix 
+[29.01.2026 20:08:18] INFO: EVENT: filmViewed - Film: The Matrix 
+[29.01.2026 20:08:18] INFO: EVENT: reportGenerated - File: The Matrix 
+[29.01.2026 20:08:21] INFO: EVENT: reportGenerated - File: Inception 
+[29.01.2026 20:08:21] INFO: EVENT: filmViewed - Film: Inception 
+[29.01.2026 20:08:23] INFO: EVENT: filmViewed - Film: Interstellar 
+[29.01.2026 20:08:23] INFO: EVENT: reportGenerated - File: Interstellar 
+[31.01.2026 20:59:07] INFO: EVENT: filmViewed - Film: Gladiator 
+[31.01.2026 20:59:07] INFO: EVENT: reportGenerated - File: Gladiator 
+[31.01.2026 20:59:14] INFO: EVENT: filmViewed - Film: The Dark Knight 
+[31.01.2026 20:59:14] INFO: EVENT: reportGenerated - File: The Dark Knight 
+[31.01.2026 21:00:09] INFO: EVENT: filmViewed - Film: Gladiator 
+[31.01.2026 21:00:09] INFO: EVENT: reportGenerated - File: Gladiator 
+[31.01.2026 21:00:24] INFO: EVENT: filmViewed - Film: Fight Club 
+[31.01.2026 21:00:24] INFO: EVENT: reportGenerated - File: Fight Club 

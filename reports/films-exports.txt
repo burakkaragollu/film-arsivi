@@ -1,0 +1,55 @@
+--- Film Arsivi Raporu---
+Olusturulma? 31.01.2026 21:00:16
+Toplam:10film
+----------------------------
+
+1.The Matrix (1999)
+Yonetmen:Wachowski Kardeşler
+Kategori : sci-fi | Puan:8.7
+Durum : Izlendi
+
+2.Inception (2010)
+Yonetmen:Christopher Nolan
+Kategori : sci-fi | Puan:8.8
+Durum : Izlendi
+
+3.Interstellar (2014)
+Yonetmen:Christopher Nolan
+Kategori : sci-fi | Puan:8.6
+Durum : Izlendi
+
+4.The Dark Knight (2008)
+Yonetmen:Christopher Nolan
+Kategori : action | Puan:9
+Durum : Izlendi
+
+5.Fight Club (1999)
+Yonetmen:David Fincher
+Kategori : drama | Puan:8.8
+Durum : Izlendi
+
+6.Forrest Gump (1994)
+Yonetmen:Robert Zemeckis
+Kategori : drama | Puan:8.8
+Durum : Izlendi
+
+7.The Lord of the Rings: The Fellowship of the Ring (2001)
+Yonetmen:Peter Jackson
+Kategori : fantasy | Puan:8.8
+Durum : Izlenmedi
+
+8.Gladiator (2000)
+Yonetmen:Ridley Scott
+Kategori : action | Puan:8.5
+Durum : Izlenmedi
+
+9.The Shawshank Redemption (1994)
+Yonetmen:Frank Darabont
+Kategori : drama | Puan:9.3
+Durum : Izlendi
+
+10.Parasite (2019)
+Yonetmen:Bong Joon-ho
+Kategori : drama | Puan:8.6
+Durum : Izlenmedi
+
